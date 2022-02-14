@@ -8,3 +8,4 @@
   
 data:其中包括训练集(coal_train)、验证集(coal_val)和测试集(coal_test)  
 epochs:存放训练过程中最新的权重和PSNR最高的权重
+module:存放网络结构的python文件
