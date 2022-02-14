@@ -12,4 +12,6 @@ module:存放网络结构的python文件
 test:测试代码  
 trian:训练代码  
 training_results:存放训练结果图片  
-utils:各种工具函数
+utils:存放各种工具函数的python文件  
+data_utils.py:预处理数据集的python文件  
+loss.py:损失函数的python文件
